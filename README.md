@@ -15,4 +15,7 @@ Text just under header
 
 Sample website with plenty of files for demos
 
+Change 1
+Change 2
+
 .md stands for marked down text
