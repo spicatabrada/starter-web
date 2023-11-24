@@ -20,6 +20,7 @@ Sample website with plenty of files for demos
 Change 1
 Change 2
 Change 3
+Change Stashed
 
 .md stands for marked down text
 
